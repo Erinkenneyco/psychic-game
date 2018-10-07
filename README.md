@@ -1,14 +1,14 @@
-# Crystal Ball Psychic-Game
+# **Crystal Ball Psychic-Game:**
 This game is my 3rd homework assignment: The Crystal Ball Psychic Game,
 I created this game for my Coding Bootcamp. 
 
 
 
-##About
+## **About:**
 I created this using the Bootstrap grid and JavaScript.
 
 
-###**How to play:**
+### **How to play:**
 
 *The computer will randomly choose a letter from the alphabet. The goal is for the user to guess that letter by pressing a key on the keyboard.
 
